@@ -254,7 +254,7 @@ function build(){
    b[1].onclick=function(){setQ(it.id,(Q[it.id]||0)+1)};
    r.querySelector('.fv').onclick=function(){toggleFav(it.id)};
    r._id=it.id;r._fv=r.querySelector('.fv');r._n=norm(it.n+s.x);r._i=j;r._p=it.p;r._top=it.g=='V'?0:1;
-   R[it.id]={r:r,sp:r.querySelector('span'),it:it};
+   R[it.id]={r:r,sp:r.querySelector('.qty span'),it:it};
    all.push({id:it.id,name:it.n.replace(/\s*[^\wÁÉÍÓÚáéíóúñÑ.()\s-]+\s*$/u,'').trim()+s.x,p:it.p,it:it});
    sec.rows.push(r);c.appendChild(r);
   });
