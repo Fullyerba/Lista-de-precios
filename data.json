@@ -1,5 +1,5 @@
 {
- "v": 1792064985566,
+ "v": 1792086560749,
  "mes": "Octubre",
  "envio": 4000,
  "wa": "5492284501864",
@@ -47,6 +47,14 @@
      "p": 19000,
      "g": "",
      "d": "Morral matero de tela: un bolso con tira para llevar al hombro.",
+     "o": false
+    },
+    {
+     "id": "x1792086520647",
+     "n": "Mate Coquito 🧉 ",
+     "p": 18000,
+     "g": "N",
+     "d": "Mate de calabaza con base de cuero sin virola",
      "o": false
     }
    ]
