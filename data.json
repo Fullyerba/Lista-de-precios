@@ -1,5 +1,5 @@
 {
- "v": 1792002015825,
+ "v": 1792064912055,
  "mes": "Octubre",
  "envio": 4000,
  "wa": "5492284501864",
@@ -27,7 +27,7 @@
     },
     {
      "id": "s0-termo-media-manija",
-     "n": "Termo media manija",
+     "n": "Termo media manija ",
      "p": 24000,
      "g": "",
      "d": "Termo metálico con media manija. Mantiene el agua caliente por aproximadamente 8 horas.",
@@ -47,6 +47,14 @@
      "p": 19000,
      "g": "",
      "d": "Morral matero de tela: un bolso con tira para llevar al hombro.",
+     "o": false
+    },
+    {
+     "id": "x1792064863097",
+     "n": "Mate coquito 🧉",
+     "p": 18300,
+     "g": "N",
+     "d": "Mate de calabaza con base de cuero ",
      "o": false
     }
    ]
