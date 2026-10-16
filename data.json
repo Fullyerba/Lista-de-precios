@@ -1,5 +1,5 @@
 {
- "v": 1792086560749,
+ "v": 1792169762425,
  "mes": "Octubre",
  "envio": 4000,
  "wa": "5492284501864",
@@ -78,7 +78,7 @@
      "p": 12000,
      "g": "",
      "d": "Sabor clásico, pensada para el mate diario.",
-     "o": false
+     "o": true
     },
     {
      "id": "s1-sara-tradicional",
