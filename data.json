@@ -1,5 +1,5 @@
 {
- "v": 1792419992152,
+ "v": 1792425218074,
  "mes": "Octubre",
  "envio": 4000,
  "wa": "5492284501864",
@@ -182,7 +182,7 @@
      "p": 9000,
      "g": "",
      "d": "Sabor clásico y precio accesible.",
-     "o": false
+     "o": true
     },
     {
      "id": "s1-verdecita",
