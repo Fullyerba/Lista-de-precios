@@ -1,5 +1,5 @@
 {
- "v": 1792169762425,
+ "v": 1792411767886,
  "mes": "Octubre",
  "envio": 4000,
  "wa": "5492284501864",
@@ -78,7 +78,7 @@
      "p": 12000,
      "g": "",
      "d": "Sabor clásico, pensada para el mate diario.",
-     "o": true
+     "o": false
     },
     {
      "id": "s1-sara-tradicional",
@@ -237,7 +237,7 @@
      "p": 7000,
      "g": "",
      "d": "Sabor equilibrado y parejo, ideal para el mate diario.",
-     "o": true
+     "o": false
     },
     {
      "id": "s2-canarias-suave",
