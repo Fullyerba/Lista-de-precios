@@ -1,5 +1,5 @@
 {
- "v": 1792425218074,
+ "v": 1792591356559,
  "mes": "Octubre",
  "envio": 4000,
  "wa": "5492284501864",
@@ -158,7 +158,7 @@
      "p": 12000,
      "g": "",
      "d": "Sabor ahumado: la versión premium de Rei Verde.",
-     "o": false
+     "o": true
     },
     {
      "id": "s1-rei-verde-clasica",
