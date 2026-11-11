@@ -1,5 +1,5 @@
 {
- "v": 1793551339820,
+ "v": 1794432556644,
  "mes": "noviembre",
  "envio": 4000,
  "wa": "5492284501864",
@@ -237,7 +237,7 @@
      "p": 7000,
      "g": "",
      "d": "Sabor equilibrado y parejo, ideal para el mate diario.",
-     "o": false
+     "o": true
     },
     {
      "id": "s2-canarias-suave",
