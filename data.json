@@ -1,5 +1,5 @@
 {
- "v": 1794432556644,
+ "v": 1794507415580,
  "mes": "noviembre",
  "envio": 4000,
  "wa": "5492284501864",
@@ -333,7 +333,7 @@
      "p": 5800,
      "g": "",
      "d": "Sabor tradicional, de cuerpo firme.",
-     "o": false
+     "o": true
     },
     {
      "id": "s2-rei-verde-pad-arg",
