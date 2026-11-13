@@ -1,5 +1,5 @@
 {
- "v": 1794507415580,
+ "v": 1794606218634,
  "mes": "noviembre",
  "envio": 4000,
  "wa": "5492284501864",
@@ -78,7 +78,7 @@
      "p": 12000,
      "g": "",
      "d": "Sabor clásico, pensada para el mate diario.",
-     "o": true
+     "o": false
     },
     {
      "id": "s1-sara-tradicional",
@@ -154,11 +154,11 @@
     },
     {
      "id": "s1-rei-verde-premium",
-     "n": "Rei Verde Premium 🇦🇷🖤",
+     "n": "Rei Verde Premium 🖤",
      "p": 12000,
      "g": "",
      "d": "Sabor ahumado: la versión premium de Rei Verde.",
-     "o": true
+     "o": false
     },
     {
      "id": "s1-rei-verde-clasica",
@@ -174,7 +174,7 @@
      "p": 10000,
      "g": "",
      "d": "Sabor tradicional, de cuerpo firme y buen rendimiento.",
-     "o": true
+     "o": false
     },
     {
      "id": "s1-barao",
@@ -182,7 +182,7 @@
      "p": 9000,
      "g": "",
      "d": "Sabor clásico y precio accesible.",
-     "o": true
+     "o": false
     },
     {
      "id": "s1-verdecita",
@@ -237,7 +237,7 @@
      "p": 7000,
      "g": "",
      "d": "Sabor equilibrado y parejo, ideal para el mate diario.",
-     "o": true
+     "o": false
     },
     {
      "id": "s2-canarias-suave",
@@ -293,7 +293,7 @@
      "p": 7000,
      "g": "",
      "d": "Yerba con té verde: sabor fresco y liviano.",
-     "o": true
+     "o": false
     },
     {
      "id": "s2-verdecita",
