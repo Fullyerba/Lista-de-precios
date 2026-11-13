@@ -1,5 +1,5 @@
 {
- "v": 1794606218634,
+ "v": 1794608112311,
  "mes": "noviembre",
  "envio": 4000,
  "wa": "5492284501864",
@@ -75,7 +75,7 @@
     {
      "id": "s1-esmeralda",
      "n": "Esmeralda 💠",
-     "p": 12000,
+     "p": 11994,
      "g": "",
      "d": "Sabor clásico, pensada para el mate diario.",
      "o": false
@@ -187,7 +187,7 @@
     {
      "id": "s1-verdecita",
      "n": "Verdecita 🟡🟢",
-     "p": 8500,
+     "p": 9000,
      "g": "",
      "d": "Sabor clásico y precio accesible.",
      "o": false
@@ -195,7 +195,7 @@
     {
      "id": "s1-centenaria-tradicional",
      "n": "Centenaria Tradicional 🟢🟡",
-     "p": 8500,
+     "p": 9000,
      "g": "",
      "d": "Sabor tradicional y precio accesible.",
      "o": false
@@ -223,6 +223,14 @@
      "g": "C",
      "d": "Con palo: más suave y rendidora, con menos amargor.",
      "o": false
+    },
+    {
+     "id": "x1794607359154",
+     "n": "Contigo Compuesta ",
+     "p": 12500,
+     "g": "N",
+     "d": "De molienda fina sin palo y una mezcla de hierbas aromáticas naturales",
+     "o": false
     }
    ]
   },
@@ -235,7 +243,7 @@
      "id": "s2-baldo",
      "n": "Baldo 🔴🟢",
      "p": 7000,
-     "g": "",
+     "g": "V",
      "d": "Sabor equilibrado y parejo, ideal para el mate diario.",
      "o": false
     },
@@ -243,7 +251,7 @@
      "id": "s2-canarias-suave",
      "n": "Canarias Suave 🔵",
      "p": 7000,
-     "g": "N",
+     "g": "",
      "d": "Más suave que la tradicional, con menos amargor.",
      "o": false
     },
@@ -268,7 +276,7 @@
      "n": "Hilario 🟠",
      "p": 5500,
      "g": "N",
-     "d": "Novedad de la lista, para el mate de todos los días.",
+     "d": "Despalada y con bajo polvo. Se destaca por ofrecer buena espuma y un sabor intenso pero equilibrado",
      "o": false
     },
     {
@@ -357,6 +365,30 @@
      "p": 4000,
      "g": "",
      "d": "Despalada: sin palo, sabor más intenso y buena espuma.",
+     "o": false
+    },
+    {
+     "id": "x1794607743168",
+     "n": "Rei verde premium",
+     "p": 7000,
+     "g": "N",
+     "d": "Sabor ahumado: la versión premium de Rei Verde.",
+     "o": false
+    },
+    {
+     "id": "x1794607828611",
+     "n": "Rei verde TERERÉ Limon con Menta 250g",
+     "p": 5000,
+     "g": "N",
+     "d": "Cítrico, ácido y muy fresco, con predominio de notas herbales y mentoladas",
+     "o": false
+    },
+    {
+     "id": "x1794607995286",
+     "n": "Rei Verde TERERÉ Ananá con Menta 250g",
+     "p": 5000,
+     "g": "N",
+     "d": "Frutal, tropical y ligeramente más dulce en aroma, equilibrado con el frescor de la menta.",
      "o": false
     }
    ]
