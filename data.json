@@ -1,5 +1,5 @@
 {
- "v": 1794668968383,
+ "v": 1795114909835,
  "mes": "noviembre",
  "envio": 4000,
  "wa": "5492284501864",
@@ -23,7 +23,7 @@
      "p": 52500,
      "g": "A",
      "d": "El formato más conveniente de Baldo, ideal para mateadores de todos los días.",
-     "o": false
+     "o": true
     },
     {
      "id": "s0-termo-media-manija",
